@@ -17,8 +17,6 @@ e-mail: nome@usp.br
 
 às segundas-feiras, das 8h às 12h
 
-Sala virtual: https//....
-
 
 ### Critério de Avaliação
 
