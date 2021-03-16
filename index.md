@@ -8,11 +8,6 @@ Docente: Gisele Craveiro
 e-mail: giselesc@usp.br
 
 
-Monitor(a): Nome
-
-e-mail: nome@usp.br
-
-
 ### Aulas
 
 às segundas-feiras, das 8h às 12h
