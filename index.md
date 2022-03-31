@@ -2,7 +2,7 @@
 
 ## Informações Gerais
 
-Oferecimento Atual:
+**Oferecimento Atual:**
 
 ## [2022](https://governoaberto-usp.github.io/ACH3778/2022)
 
